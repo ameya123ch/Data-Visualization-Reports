@@ -1,6 +1,6 @@
 # Data-Visualization-Reports
 
-# MAVEN-TOYS-DATA-ANALYSIS
+# MAVEN TOYS DATA ANALYSIS
 Description: 
 
 Sales & inventory data for a fictitious chain of toy stores in Mexico called Maven Toys, including information about products, stores, daily sales transactions, and current inventory levels at each location.
@@ -30,7 +30,7 @@ Check out the report:
 https://app.powerbi.com/view?r=eyJrIjoiZjZiOWQ0MDItZWVmZC00ZDIyLWEwMjgtMmI0OWQyOGRiZjhmIiwidCI6IjliNjVjMTQ3LTIwMGEtNDMwOS05Y2M2LWE3YTAyZWIxOTI5MCJ9
 
 
-# GLOBAL-SUPERSTORE-DATA-ANALYSIS
+# GLOBAL SUPERSTORE DATA ANALYSIS
 
 A Complete analysis on fictional dataset named Global Superstore courtesy :  https://www.kaggle.com/datasets/shekpaul/global-superstore/download.
 I have drawn few insights and prepared an interactive report.
