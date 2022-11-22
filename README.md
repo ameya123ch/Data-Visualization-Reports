@@ -17,7 +17,7 @@ Recommended Analysis
 
 Please go through the report which I have shared, I have drawn few insights to answer the above questions.
 
-Tools used
+Tools used:
 
 Power BI
 
@@ -35,7 +35,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZjZiOWQ0MDItZWVmZC00ZDIyLWEwMjgtMmI0OWQyO
 A Complete analysis on fictional dataset named Global Superstore courtesy :  https://www.kaggle.com/datasets/shekpaul/global-superstore/download.
 I have drawn few insights and prepared an interactive report.
 
-Tools used
+Tools used:
 
 Power BI
 
