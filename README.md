@@ -39,6 +39,6 @@ Tools used:
 
 Power BI
 
-Check out the report link for detail analysis:
+Check out the report for detail analysis:
 
 https://app.powerbi.com/view?r=eyJrIjoiYzNmOGJkMGItYjRjZi00MTNhLThhZmQtMWZiZDVlMWU1MDJkIiwidCI6IjliNjVjMTQ3LTIwMGEtNDMwOS05Y2M2LWE3YTAyZWIxOTI5MCJ9
