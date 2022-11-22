@@ -19,7 +19,7 @@ Please go through the report which I have shared, I have drawn few insights to a
 
 Tools used
 
-Power bi
+Power BI
 
 Dataset: https://maven-datasets.s3.amazonaws.com/Maven+Toys/Maven+Toys+Data.zip,
 
@@ -30,10 +30,14 @@ Check out report:
 https://app.powerbi.com/view?r=eyJrIjoiZjZiOWQ0MDItZWVmZC00ZDIyLWEwMjgtMmI0OWQyOGRiZjhmIiwidCI6IjliNjVjMTQ3LTIwMGEtNDMwOS05Y2M2LWE3YTAyZWIxOTI5MCJ9
 
 
-# Global-Superstore-Power-bi-Report
+# GLOBAL-SUPERSTORE-DATA-ANALYSIS
 
 A Complete analysis on fictional dataset named Global Superstore courtesy :  https://www.kaggle.com/datasets/shekpaul/global-superstore/download.
 I have drawn few insights and prepared an interactive report.
+
+Tools used
+
+Power BI
 
 Check out the report link for detail analysis:
 
