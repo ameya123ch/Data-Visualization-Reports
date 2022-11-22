@@ -25,7 +25,7 @@ Dataset: https://maven-datasets.s3.amazonaws.com/Maven+Toys/Maven+Toys+Data.zip,
 
 Courtesy: Maven Analytics https://www.mavenanalytics.io/
 
-Check out report:
+Check out the report:
 
 https://app.powerbi.com/view?r=eyJrIjoiZjZiOWQ0MDItZWVmZC00ZDIyLWEwMjgtMmI0OWQyOGRiZjhmIiwidCI6IjliNjVjMTQ3LTIwMGEtNDMwOS05Y2M2LWE3YTAyZWIxOTI5MCJ9
 
