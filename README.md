@@ -28,8 +28,10 @@ Courtesy: Maven Analytics https://www.mavenanalytics.io/
 Check out the report:
 
 
-![Screenshot (5)](https://user-images.githubusercontent.com/88341388/209466841-65c39600-df70-405d-974a-f9c5c47e4d21.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/88341388/209466876-e8bae736-584b-497d-8799-7458564fd34a.png)
 
+
+Detail report:
 
 https://app.powerbi.com/view?r=eyJrIjoiMzcwYjZlNGMtZDQ0Yi00MDFmLWExMzYtYzU0OTI0YjFhNjYwIiwidCI6IjlmMTc0ODc5LTIxNTktNDJjNy1hZjdiLWQxODI0ODRkYzZlMiJ9
 
@@ -48,5 +50,6 @@ Check out the report for detail analysis:
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/88341388/209466814-6c12af5c-658d-4447-bfd1-8c793001b614.png)
 
+Detail report:
 
 https://app.powerbi.com/view?r=eyJrIjoiZmZjNjliM2ItMzMzNi00YjY1LTkyYzYtNGNkZGYxYWZkMTg5IiwidCI6IjlmMTc0ODc5LTIxNTktNDJjNy1hZjdiLWQxODI0ODRkYzZlMiJ9&pageName=ReportSection
