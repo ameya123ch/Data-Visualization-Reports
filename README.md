@@ -27,7 +27,11 @@ Courtesy: Maven Analytics https://www.mavenanalytics.io/
 
 Check out the report:
 
-https://app.powerbi.com/view?r=eyJrIjoiZjZiOWQ0MDItZWVmZC00ZDIyLWEwMjgtMmI0OWQyOGRiZjhmIiwidCI6IjliNjVjMTQ3LTIwMGEtNDMwOS05Y2M2LWE3YTAyZWIxOTI5MCJ9
+
+![Screenshot (5)](https://user-images.githubusercontent.com/88341388/209466841-65c39600-df70-405d-974a-f9c5c47e4d21.png)
+
+
+https://app.powerbi.com/view?r=eyJrIjoiMzcwYjZlNGMtZDQ0Yi00MDFmLWExMzYtYzU0OTI0YjFhNjYwIiwidCI6IjlmMTc0ODc5LTIxNTktNDJjNy1hZjdiLWQxODI0ODRkYzZlMiJ9
 
 
 # GLOBAL SUPERSTORE DATA ANALYSIS
@@ -41,4 +45,8 @@ Power BI
 
 Check out the report for detail analysis:
 
-https://app.powerbi.com/view?r=eyJrIjoiYzNmOGJkMGItYjRjZi00MTNhLThhZmQtMWZiZDVlMWU1MDJkIiwidCI6IjliNjVjMTQ3LTIwMGEtNDMwOS05Y2M2LWE3YTAyZWIxOTI5MCJ9
+
+![Screenshot (4)](https://user-images.githubusercontent.com/88341388/209466814-6c12af5c-658d-4447-bfd1-8c793001b614.png)
+
+
+https://app.powerbi.com/view?r=eyJrIjoiZmZjNjliM2ItMzMzNi00YjY1LTkyYzYtNGNkZGYxYWZkMTg5IiwidCI6IjlmMTc0ODc5LTIxNTktNDJjNy1hZjdiLWQxODI0ODRkYzZlMiJ9&pageName=ReportSection
