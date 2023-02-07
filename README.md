@@ -1,11 +1,12 @@
 # Data Visualization Reports
 
 ## MAVEN TOYS DATA ANALYSIS
-Description: 
+
+### Description: 
 
 Sales & inventory data for a fictitious chain of toy stores in Mexico called Maven Toys, including information about products, stores, daily sales transactions, and current inventory levels at each location.
 
-Recommended Analysis
+### Recommended Analysis
 
 . Which product categories drive the biggest profits? Is this the same across store locations?
 
@@ -17,7 +18,7 @@ Recommended Analysis
 
 Please go through the report which I have shared, I have drawn few insights to answer the above questions.
 
-Tools used:
+### Tools used:
 
 Power BI
 
@@ -25,7 +26,7 @@ Dataset: https://maven-datasets.s3.amazonaws.com/Maven+Toys/Maven+Toys+Data.zip,
 
 Courtesy: Maven Analytics https://www.mavenanalytics.io/
 
-Check out the report:
+### Check out the report:
 
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/88341388/209466876-e8bae736-584b-497d-8799-7458564fd34a.png)
