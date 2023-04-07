@@ -53,4 +53,4 @@ Power BI
 
 ### Detail report:
 
-https://app.powerbi.com/view?r=eyJrIjoiYWY3NjQ4OTYtNTE0OC00ZjA3LTk3ZmEtM2UyM2UyNTBiNmM5IiwidCI6ImNlNjM2MzllLTVmZDgtNGNhNy1iNjE1LWNjZDcyZjEzZjk0MyJ9
+https://app.powerbi.com/view?r=eyJrIjoiODUzNzM1YzgtN2RkMS00MGFjLTgzY2UtYWFmYTk5OTUzYmQwIiwidCI6ImNlNjM2MzllLTVmZDgtNGNhNy1iNjE1LWNjZDcyZjEzZjk0MyJ9
